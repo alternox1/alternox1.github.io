@@ -33,12 +33,12 @@ Planning
 ---
 
 The hardest part of the whole event is this one, making a plan for the tasks and categories, we agreed on making 6 categories, one for the welcome task, one for the final task, and 4 others, one for each house so we ended up with those 6 : 
-- *Welcome* :hand: 
-- *Gryffindor* :lion_face: 
-- *Slytherin* :snake: 
+- *Welcome* 👋 
+- *Gryffindor* 🦁 
+- *Slytherin* 🐍 
 - *Ravenclaw* 🦅
 - *Hufflepuff* 🦡
-- *Final Task* :end: 
+- *Final Task* 🔚 
 
 Each category had a mixture of 2 or more CTF categories(rev, pwn, foren, web,etc...).
 Each and every category had Tasks following this layout : 
