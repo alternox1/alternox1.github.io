@@ -5,6 +5,8 @@ date: 2023-11-29 12:00:00 +0000
 categories: [Blogging, Events]
 tags: [Events]
 render_with_liquid: false
+image:
+  path: /assets/img/CybermazeV3/cybermaze.png
 ---
 
 ## Event description
