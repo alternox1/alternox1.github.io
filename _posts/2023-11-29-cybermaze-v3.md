@@ -1,7 +1,7 @@
 ---
 title: CyberMazeV3
 description: This is a summary of what Engineers Spark Team went through when preparing for the CyberMaze V3.
-author: 1
+author: alternox
 date: 2023-11-29 12:00:00 +0000
 categories: [Blogging, Events]
 tags: [Events]
