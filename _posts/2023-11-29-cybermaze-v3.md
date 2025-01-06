@@ -53,9 +53,9 @@ For us, it went like this:
 
 It also provides a themed map for "Iset'com", which helps in other tasks : 
 
-<center>
-<img src="https://i.postimg.cc/B6hDH4Mn/CMv3map.png" style="width:500px;"/>
-</center>
+
+![faulty](https://i.postimg.cc/B6hDH4Mn/CMv3map.png)
+
 
 <br>
 
