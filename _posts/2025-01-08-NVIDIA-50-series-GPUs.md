@@ -66,15 +66,23 @@ Yep you guessed it right, its 2X faster than the `4070`, this rises the exciteme
 
 ![cards](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/rtx-50-series-graphics-cards-gpu-laptop-announcements/geforce-rtx-5070-ti-partner-cards.jpg)
 
-## Launch Dates and Pricing
+## Launch Dates, Pricing and Power Usage
 
 ### Launch
 
 The highly anticipated launch of the `5090` and `5080` is set for January 30, with the `5070 Ti` and `5070` following closely in early February.
 
-### Pricing
+### Pricing and Power Usage
 
-MSRP suggests:
+| **Model**      | **AI TOPS**  | **Price** | **Power Consumption** |
+|-----------------|--------------|-----------|------------------------|
+| RTX 5090       | 3,400 AI TOPS | $1,999    | 575W                  |
+| RTX 5080       | 1,800 AI TOPS | $999      | 360W                  |
+| RTX 5070 Ti    | 1,400 AI TOPS | $749      | 300W                  |
+| RTX 5070       | 1,000 AI TOPS | $549      | 250W                  |
+
+
+
 ![Price](https://pbs.twimg.com/media/GgqKcrEboAEJ3Gn?format=jpg&name=4096x4096)
 
 ## Personal Notes
