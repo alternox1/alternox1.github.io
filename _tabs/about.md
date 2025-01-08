@@ -16,5 +16,5 @@ I'm a cybersecurity enthusiast currently pursuing a Master's degree in Network S
 
 - 🌐 **LinkedIn**: [Mohamed Amin Rouissi](https://www.linkedin.com/in/mohammed-amin-rouissi/)
 
-Feel free to connect with me or explore my repositories to see my projects and contributions in the field of cybersecurity.
+Feel free to connect with me or explore my blog posts to see my projects and contributions in the field of cybersecurity.
 
