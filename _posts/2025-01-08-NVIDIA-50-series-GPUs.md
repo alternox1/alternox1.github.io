@@ -88,3 +88,5 @@ The highly anticipated launch of the `5090` and `5080` is set for January 30, wi
 ## Personal Notes
 
 On my side of town, its worth the wait and money, based on the graphs and performs, even price, this is the best GPU launch ever for consumers, just one thing, what does `AMD` Has to offer to compete with THAT. 
+
+> All graphs and figures provided in this article are taken from NVIDIA's official website, I do not own any of them.
