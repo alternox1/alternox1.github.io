@@ -57,9 +57,9 @@ flag : `Securinets{sh3_1s_th3_FL4G}`
 Challenge: 
 ![First Pwn Task](/assets/img/ctfkareem2025/pwntask2.png)
 
-This challenge was a bit tricky, but it had the cource code attached to it:
+This challenge was a bit tricky, but it had the source code attached to it:
 
-```cpp
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
