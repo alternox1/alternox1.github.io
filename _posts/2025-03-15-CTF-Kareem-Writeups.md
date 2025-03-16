@@ -59,7 +59,7 @@ Challenge:
 
 This challenge was a bit tricky, but it had the cource code attached to it:
 
-```C
+```cpp
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
